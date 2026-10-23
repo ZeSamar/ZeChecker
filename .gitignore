@@ -1,0 +1,16 @@
+# build artifacts
+*.o
+*.obj
+*.res
+
+# runtime config (may contain API key)
+zechecker.ini
+zechecker.cfg
+server_check.ini
+server_check.cfg
+
+# IDE / OS
+.vs/
+*.user
+Thumbs.db
+desktop.ini
